@@ -83,6 +83,7 @@ main h1{
 }
 
 footer {
+
   padding: 65px 0px 80px 80px;
 }
 
@@ -93,12 +94,10 @@ footer {
 {
     float: right;
 }
-}
-.mini{
-    text-align: center;
-}
+
+
 .qqq{
-   
+  
     font-size: 20px;
     color: wheat;
     display: flex;
