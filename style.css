@@ -1,0 +1,106 @@
+body {
+background-image: url("https://www.nastol.com.ua/pic/201112/1024x768/nastol.com.ua-12622.jpg");
+ 
+  font-family: sans-serif;
+}
+
+header {
+  
+  padding: 40px 0px 40px 25px;
+   
+}
+
+.link-header {
+  background-color: #33CCCC;
+  padding: 5px 10px 5px 10px;
+  font-size: 36px;
+  text-decoration: none;
+ 
+}
+
+nav {
+  padding: 35px 40px 0px 40px;
+   display: flex; 
+   justify-content: center;
+}
+
+.link-nav {
+   
+  color: #33CCCC;
+  font-size: 24px;
+  margin-right: 35px;
+  text-decoration: none;
+  border-bottom: 2px solid black;
+}
+
+.h1g {
+  text-align: center;
+  color: #2AB428;
+  font-size: 96px;
+}
+
+p {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+ul {
+color: wheat;
+  font-size: 24px;
+  list-style: url("https://img.icons8.com/bubbles/50/ffffff/share.png");
+  margin-left: 60px;
+}
+
+li {
+    color: wheat;
+  margin-bottom: 20px;
+}
+
+ol {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+.text-big {
+  font-size: 48px;
+  margin-left: 60px;
+}
+  
+.link-text {
+  color: blue;
+  text-decoration: none;
+  border-bottom: 2px solid blue;
+}
+
+h2 {
+  color: #006363;
+  font-size: 64px;
+}
+main h1{
+    font-size: 70px;
+    color: blue;
+    text-align: center;
+}
+
+footer {
+  padding: 65px 0px 80px 80px;
+}
+
+.social {
+  margin-right: 60px;
+}
+.qq
+{
+    float: right;
+}
+}
+.mini{
+    text-align: center;
+}
+.qqq{
+   
+    font-size: 20px;
+    color: wheat;
+    display: flex;
+    justify-content: center;
+}
